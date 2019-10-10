@@ -7,12 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="hello-spring-cloud-eureka" />
+        <module name="hello-spring-cloud-eureka (1)" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="hello-spring-cloud-dependencies" target="1.8" />
       <module name="Hello-spring-cloud-dependencies" target="1.8" />
       <module name="hello-spring-cloud-eureka" target="1.8" />
+      <module name="hello-spring-cloud-eureka (1)" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
