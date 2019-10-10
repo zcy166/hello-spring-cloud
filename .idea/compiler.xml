@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="hello-spring-cloud-eureka" />
         <module name="hello-spring-cloud-eureka (1)" />
+        <module name="hello-spring-cloud-web-admin-ribbon" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -15,6 +16,7 @@
       <module name="Hello-spring-cloud-dependencies" target="1.8" />
       <module name="hello-spring-cloud-eureka" target="1.8" />
       <module name="hello-spring-cloud-eureka (1)" target="1.8" />
+      <module name="hello-spring-cloud-web-admin-ribbon" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
