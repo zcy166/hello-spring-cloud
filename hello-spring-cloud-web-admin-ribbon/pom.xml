@@ -62,7 +62,7 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
-                    <mainClass>com.funtl.hello.spring.cloud.eureka.EurekaApplication</mainClass>
+                    <mainClass>com.funtl.hello.spring.cloud.web.admin.ribbor.WebAdminRibbonApplication</mainClass>
                 </configuration>
             </plugin>
         </plugins>
