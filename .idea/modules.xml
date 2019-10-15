@@ -6,7 +6,6 @@
       <module fileurl="file://$PROJECT_DIR$/hello-spring-cloud-service-admin/hello-spring-cloud-admin.iml" filepath="$PROJECT_DIR$/hello-spring-cloud-service-admin/hello-spring-cloud-admin.iml" />
       <module fileurl="file://$PROJECT_DIR$/hello-spring-cloud-dependencies/hello-spring-cloud-dependencies.iml" filepath="$PROJECT_DIR$/hello-spring-cloud-dependencies/hello-spring-cloud-dependencies.iml" />
       <module fileurl="file://$PROJECT_DIR$/hello-spring-cloud-eureka/hello-spring-cloud-eureka.iml" filepath="$PROJECT_DIR$/hello-spring-cloud-eureka/hello-spring-cloud-eureka.iml" />
-      <module fileurl="file://$PROJECT_DIR$/hello-spring-cloud-service-admin/hello-spring-cloud-eureka (1).iml" filepath="$PROJECT_DIR$/hello-spring-cloud-service-admin/hello-spring-cloud-eureka (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/hello-spring-cloud-web-admin-feign.iml" filepath="$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/hello-spring-cloud-web-admin-feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/hello-spring-cloud-web-admin-ribbon.iml" filepath="$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/hello-spring-cloud-web-admin-ribbon.iml" />
       <module fileurl="file://$PROJECT_DIR$/hello-spring-cloud-zuul/hello-spring-cloud-zuul.iml" filepath="$PROJECT_DIR$/hello-spring-cloud-zuul/hello-spring-cloud-zuul.iml" />
