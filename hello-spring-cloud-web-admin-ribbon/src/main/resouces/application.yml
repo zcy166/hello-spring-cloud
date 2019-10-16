@@ -4,7 +4,7 @@ spring:
       uri: http://localhost:8888
       name: web-admin-ribbon
       label: master
-      profile: prod
+      profile: dev
 
 
 

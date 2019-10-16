@@ -10,8 +10,10 @@
         <module name="hello-spring-cloud-config" />
         <module name="hello-spring-cloud-eureka" />
         <module name="hello-spring-cloud-eureka (1)" />
+        <module name="hello-spring-cloud-service-admin" />
         <module name="hello-spring-cloud-web-admin-feign" />
         <module name="hello-spring-cloud-web-admin-ribbon" />
+        <module name="hello-spring-cloud-zipkin" />
         <module name="hello-spring-cloud-zuul" />
       </profile>
     </annotationProcessing>
@@ -22,9 +24,13 @@
       <module name="Hello-spring-cloud-dependencies" target="1.8" />
       <module name="hello-spring-cloud-eureka" target="1.8" />
       <module name="hello-spring-cloud-eureka (1)" target="1.8" />
+      <module name="hello-spring-cloud-server-admin" target="1.8" />
+      <module name="hello-spring-cloud-service-admin" target="1.8" />
       <module name="hello-spring-cloud-web-admin-feign" target="1.8" />
       <module name="hello-spring-cloud-web-admin-ribbon" target="1.8" />
+      <module name="hello-spring-cloud-zipkin" target="1.8" />
       <module name="hello-spring-cloud-zuul" target="1.8" />
+      <module name="hello-spring-cloud-zuul (1)" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -11,10 +11,10 @@
     </parent>
 
 
-    <artifactId>hello-spring-cloud-admin</artifactId>
+    <artifactId>hello-spring-cloud-service-admin</artifactId>
     <packaging>jar</packaging>
 
-    <name>hello-spring-cloud-admin</name>
+    <name>hello-spring-cloud-service-admin</name>
     <url>http://www.funtl.com</url>
     <inceptionYear>2018-Now</inceptionYear>
 
@@ -33,7 +33,11 @@
             <artifactId>spring-cloud-starter-netflix-eureka-server</artifactId>
         </dependency>
         <!--Spring Cloud End-->
-
+        <!--追踪依赖-->
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-zipkin</artifactId>
+        </dependency>
     </dependencies>
 
     <build>
