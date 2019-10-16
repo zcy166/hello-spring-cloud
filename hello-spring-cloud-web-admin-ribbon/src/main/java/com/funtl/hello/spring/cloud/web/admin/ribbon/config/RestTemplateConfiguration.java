@@ -1,4 +1,4 @@
-package com.funtl.hello.spring.cloud.web.admin.ribbor.config;
+package com.funtl.hello.spring.cloud.web.admin.ribbon.config;
 
 import org.springframework.cloud.client.loadbalancer.LoadBalanced;
 import org.springframework.context.annotation.Bean;

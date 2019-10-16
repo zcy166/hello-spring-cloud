@@ -4,7 +4,7 @@ spring:
       uri: http://localhost:8888
       name: web-admin-felgn
       label: master
-      profile: dev
+      profile: prod
 
 
 

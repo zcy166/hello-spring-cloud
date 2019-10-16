@@ -1,4 +1,4 @@
-package com.funtl.hello.spring.cloud.web.admin.ribbor.config;
+package com.funtl.hello.spring.cloud.web.admin.ribbon.config;
 
 import com.netflix.hystrix.contrib.metrics.eventstream.HystrixMetricsStreamServlet;
 import org.springframework.boot.web.servlet.ServletRegistrationBean;
