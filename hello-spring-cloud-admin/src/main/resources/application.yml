@@ -6,6 +6,7 @@ spring:
 
 server:
   port: 8084
+
 management:
   endpoint:
     health:
@@ -14,7 +15,8 @@ management:
     web:
       exposure:
         include: ["health", "info"]
+
 eureka:
   client:
-    service-url:
-      defaultZone: http://localhosts:8761/eureka/
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
